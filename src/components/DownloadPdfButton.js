@@ -2,7 +2,7 @@ import React from 'react';
 
 const DownloadPDFButton = () => {
   const handleDownload = () => {
-    const url = 'react-frontend-dev-portfolio\public\Shobhit MernCv.pdf'; 
+    const url = '/Shobhit MernCv.pdf'; 
     fetch(url)
       .then((response) => response.blob())
       .then((blob) => {
