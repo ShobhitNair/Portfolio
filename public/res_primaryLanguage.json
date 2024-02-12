@@ -1,0 +1,143 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Shobhit Nair. Mern Stack developer with a foundation in web development. Passionate about creating efficient and scalable web applications using MongoDB, Express.js, React, and Node.js Thank you 💜 Download",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Netflix-GPT",
+        "startDate": "2024",
+        "description": "A responsive Movie Streaming web app was developed using React and Firebase, ensuring adaptability across various devices. User authentication was implemented for personalized experiences. The TMDB API integration provides real-time access to movie data. Redux was utilized for efficient state management, and OpenAI API was incorporated for movie search suggestions. The app was globally deployed using Firebase Hosting, showcasing proficiency in JavaScript, React, Firebase, Redux, and API integration.",
+        "images": [
+          "images/portfolio/animal-shelter/I1.png",
+          "images/portfolio/animal-shelter/I2.png",
+          "images/portfolio/animal-shelter/I3.png",
+          "images/portfolio/animal-shelter/I4.png"
+        ],
+        "url": "https://netflixgpt-d0a05.web.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "name": "Redux",
+            "class": "devicon-redux-plain"
+          },{
+            "name": "Tailwindcss",
+            "class": "devicon-tailwindcss-plain"
+          },{
+            "name": "Firebase",
+            "class": "devicon-firebase-plain"
+          }
+          
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "SOCIAL MEDIA",
+        "startDate": "2023",
+        "description": "A scalable MERN (MongoDB, Express.js, React, Node.js) application was architected to optimize performance and scalability. Key features include user authentication and dynamic theming (light/dark mode) for enhanced user experience. Social functionalities such as post creation, liking, and friend addition were integrated to foster community interaction. MongoDB was utilized for efficient data storage and management, ensuring reliability and flexibility. Responsive UI/UX was achieved using React.js, while backend logic and API integrations were handled with Node.js/Express.js.",
+        "images": [
+          "images/portfolio/adventure/I1.png",
+          "images/portfolio/adventure/I2.png",
+          "images/portfolio/adventure/I3.png"
+        ],
+        "url": "https://github.com/ShobhitNair/social-media-MERN",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "name": "Mongo DB",
+            "class": "devicon-mongodb-plain",
+            "level": "60"
+          },
+          {
+            "name": "nodejs",
+            "class": "devicon-nodejs-plain"
+          },
+          {
+            "name": "Material-UI",
+            "class": "devicon-materialui-plain",
+            "level": "80"
+          }
+        
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "AVODHA EDUTECH PVT. LTD",
+        "title": "MERN-STACK TRAINER",
+        "years": "3.2023 - 9.2023",
+        "mainTech": [
+         
+        ],
+        "technologies": [
+          "REST API",
+          "Git & Version Control",
+          "Debugging & Troubleshooting",
+          "Deployment & Hosting",
+          "Teaching & Communicaton",
+          "Problem-Solving Skills",
+          "Continuous Learning",
+          "Project Management"
+        ]
+      },
+      {
+        "company": "BROTOTYPE",
+        "title": "Intern",
+        "years": "09.2022 - 03.2023",
+        "mainTech": [
+         
+        ],
+        "technologies": [
+          "JavaScript",
+          "React",
+          "Node",
+          "Express",
+          "Mongo DB",
+          "TailwindCSS",
+          "Redux-Toolkit",
+          "HTML",
+          "CSS"
+
+        ]
+      }
+    ]
+  }

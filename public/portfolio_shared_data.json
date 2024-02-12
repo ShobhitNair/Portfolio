@@ -1,0 +1,77 @@
+{
+    "basic_info": {
+      "name": "Shobhit Nair",
+      "titles": [ "FullStack Developer", "MERN STACK" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "nodejs",
+          "class": "devicon-nodejs-plain"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-plain"
+        },{
+          "name": "Tailwindcss",
+          "class": "devicon-tailwindcss-plain"
+        },{
+          "name": "Firebase",
+          "class": "devicon-firebase-plain"
+        },
+        {
+          "name": "Material-UI",
+          "class": "devicon-materialui-plain",
+          "level": "80"
+        }
+        
+      ]
+    }
+  }

@@ -1,0 +1,143 @@
+{
+    "basic_info": {
+      "description_header": "नमस्ते",
+      "description": "👋 मैं शोभित नायर हूँ। वेब डेवलपमेंट में निर्माण की आधारशिला रखने वाला MERN स्टैक डेवलपर। MongoDB, Express.js, React, और Node.js का उपयोग करके कुशल और स्केलेबल वेब एप्लिकेशन बनाने में रुचि रखता हूँ। धन्यवाद 💜 Download ",
+      "section_name": {
+        "about": "मेरे बारे में",
+        "projects": "परियोजनाएँ",
+        "skills": "कौशल",
+        "experience": "अनुभव"
+      }
+    },
+    "projects": [
+      {
+        "title": "Netflix-GPT",
+        "startDate": "2024",
+        "description": "एक प्रतिक्रियाशील फिल्म स्ट्रीमिंग वेब ऐप React और Firebase का उपयोग करके विकसित किया गया था, जो विभिन्न डिवाइसों पर अनुकूलन सुनिश्चित करता है। उपयोगकर्ता प्रमाणीकरण को व्यक्तिगत अनुभव के लिए लागू किया गया था। TMDB API एकीकरण मूवी डेटा तक पहुँच को वास्तविक समय में प्रदान करता है। सुगम राज्य प्रबंधन के लिए Redux का उपयोग किया गया था, और मूवी खोज सुझाव के लिए OpenAI API को शामिल किया गया था। ऐप को Firebase Hosting का उपयोग करके वैश्विक रूप से डिप्लॉय किया गया था, जिससे JavaScript, React, Firebase, Redux, और API एकीकरण में दक्षता का प्रदर्शन हो सके।",
+        "images": [
+          "images/portfolio/animal-shelter/I1.png",
+          "images/portfolio/animal-shelter/I2.png",
+          "images/portfolio/animal-shelter/I3.png",
+          "images/portfolio/animal-shelter/I4.png"
+        ],
+        "url": "https://netflixgpt-d0a05.web.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "name": "Redux",
+            "class": "devicon-redux-plain"
+          },{
+            "name": "Tailwindcss",
+            "class": "devicon-tailwindcss-plain"
+          },{
+            "name": "Firebase",
+            "class": "devicon-firebase-plain"
+          }
+          
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "SOCIAL MEDIA",
+        "startDate": "2023",
+        "description": "एक स्केलेबल MERN (MongoDB, Express.js, React, Node.js) एप्लिकेशन को प्रदर्शित किया गया था ताकि प्रदर्शन और स्केलेबिलिटी को अनुकूलित किया जा सके। मुख्य विशेषताएं उपयोगकर्ता प्रमाणीकरण और डायनेमिक थीमिंग (लाइट / डार्क मोड) शामिल हैं जो उपयोगकर्ता अनुभव को बढ़ावा देते हैं। पोस्ट बनाना, पसंद करना और मित्र जोड़ने जैसी सामाजिक क्षमताएं समुदाय बातचीत को बढ़ावा देने के लिए एकीकृत की गई थीं। MongoDB को दक्षतापूर्वक डेटा संचयन और प्रबंधन के लिए उपयोग किया गया था, जो विश्वसनीयता और लचीलापन सुनिश्चित करता है। React.js का उपयोग करके प्रतिक्रियाशील UI/UX प्राप्त किया गया था, जबकि बैकएंड तार्किकता और एपीआई एकीकरण को Node.js/Express.js के साथ संभाला गया।",
+        "images": [
+          "images/portfolio/adventure/I1.png",
+          "images/portfolio/adventure/I2.png",
+          "images/portfolio/adventure/I3.png"
+        ],
+        "url": "https://github.com/ShobhitNair/social-media-MERN",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "name": "Mongo DB",
+            "class": "devicon-mongodb-plain",
+            "level": "60"
+          },
+          {
+            "name": "nodejs",
+            "class": "devicon-nodejs-plain"
+          },
+          {
+            "name": "Material-UI",
+            "class": "devicon-materialui-plain",
+            "level": "80"
+          }
+        
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "AVODHA EDUTECH PVT. LTD",
+        "title": "MERN-STACK TRAINER",
+        "years": "3.2023 - 9.2023",
+        "mainTech": [
+         
+        ],
+        "technologies": [
+          "REST API",
+          "Git & Version Control",
+          "Debugging & Troubleshooting",
+          "Deployment & Hosting",
+          "Teaching & Communicaton",
+          "Problem-Solving Skills",
+          "Continuous Learning",
+          "Project Management"
+        ]
+      },
+      {
+        "company": "BROTOTYPE",
+        "title": "Intern",
+        "years": "09.2022 - 03.2023",
+        "mainTech": [
+         
+        ],
+        "technologies": [
+          "JavaScript",
+          "React",
+          "Node",
+          "Express",
+          "Mongo DB",
+          "TailwindCSS",
+          "Redux-Toolkit",
+          "HTML",
+          "CSS"
+
+        ]
+      }
+    ]
+  }
