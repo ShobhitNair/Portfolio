@@ -44,23 +44,49 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Cozastore",
+        "startDate": "2023",
+        "description": "Cozastore is a e-commerce website which consist of user side and admin side where user side have all the basic features like Signin/Singup, cart, payment method, address otp varification and admin side have dashboard, add product, delivery status, coupon features etc ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ShobhitNair/cozastore_project",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
+          },
+          {
+            "name": "Mongo DB",
+            "class": "devicon-mongodb-plain",
+            "level": "60"
+          },
+          {
+            "name": "nodejs",
+            "class": "devicon-nodejs-plain"
+          },
+          {
+            "name": "Jquery",
+            "class": "devicon-jquery-plain"
           }
+          
+
         ]
       },
       {
